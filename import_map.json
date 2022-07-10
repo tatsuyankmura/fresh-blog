@@ -1,0 +1,19 @@
+{
+  "imports": {
+    "$fresh/": "https://deno.land/x/fresh@1.0.1/",
+    "preact": "https://esm.sh/preact@10.8.2",
+    "preact/": "https://esm.sh/preact@10.8.2/",
+    "preact-render-to-string": "https://esm.sh/preact-render-to-string@5.2.0?deps=preact@10.8.2",
+    "twind": "https://esm.sh/twind@0.16.17",
+    "twind/": "https://esm.sh/twind@0.16.17/",
+    "qs": "https://deno.land/x/deno_qs/mod.ts",
+    "dotenv/": "https://deno.land/x/dotenv@v3.2.0/",
+    "dayjs": "https://esm.sh/dayjs@1.11.3",
+    "dayjs/": "https://esm.sh/dayjs@1.11.3/",
+    "cheerio": "https://deno.land/x/cheerio@1.0.6/mod.ts",
+    "hljs/": "https://unpkg.com/@highlightjs/cdn-assets@11.5.0/",
+    "@twind": "./utils/twind.ts",
+    "@microcms": "./utils/microcms.ts",
+    "@dayjs": "./utils/dayjs.ts"
+  }
+}
